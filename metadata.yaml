@@ -1,0 +1,33 @@
+_repo: An-Experiment-in-Altruism_67432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sherwood, Margaret Pollock
+    alias: Hastings, Elizabeth
+    birthdate: 1864
+    deathdate: 1955
+    gutenberg_agent_id: '909'
+    url: http://www.gutenberg.org/2009/agents/909
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Pollock_Sherwood
+description: ''
+gutenberg_issued: '2022-02-18'
+identifiers:
+  gutenberg: '67432'
+  lccn: 08008159
+language: en
+pgterms:marc904: https://archive.org/details/anexperimentina00shergoog
+pgterms:marc905: 20190220221807hastings
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Macmillan and Co.,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Social settlements -- Fiction'
+- GITenberg
+title: An Experiment in Altruism
+url: http://www.gutenberg.org/ebooks/67432
